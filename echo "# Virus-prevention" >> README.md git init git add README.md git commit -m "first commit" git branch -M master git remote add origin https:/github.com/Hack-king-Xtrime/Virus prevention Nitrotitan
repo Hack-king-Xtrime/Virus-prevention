@@ -1,0 +1,7 @@
+echo "# Virus-prevention" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Hack-king-Xtrime/Virus-prevention.git
+git push -u origin master
